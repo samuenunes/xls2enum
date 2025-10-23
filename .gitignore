@@ -1,0 +1,7 @@
+/.venv
+pycache/
+*.pyc
+*.xlsx
+*.java
+.DS_Store
+Thumbs.db
